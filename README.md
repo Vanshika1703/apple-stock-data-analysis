@@ -1,9 +1,9 @@
-📊 Apple Stock Price Analysis & Dashboard
+#📊 Apple Stock Price Analysis & Dashboard
 
 This project analyzes Apple (AAPL) stock prices using Python (Google Colab) and presents insights through an interactive Power BI dashboard.
-📂 Project Contents
+##📂 Project Contents
 
-📒 Colab Notebook (apple_stock_analysis.ipynb)
+###📒 Colab Notebook (apple_stock_analysis.ipynb)
 
 Data cleaning & preprocessing
 
@@ -11,7 +11,7 @@ Calculating metrics like Daily % Change, Price Range
 
 Exploratory Data Analysis (EDA) with plots
 
-📊 Power BI Dashboard (apple_stock_dashboard.pbix)
+###📊 Power BI Dashboard (apple_stock_dashboard.pbix)
 
 Visualizations of stock trends
 
@@ -21,7 +21,7 @@ Monthly average close prices
 
 Interactive filters
 
-⚙️ Tech Stack
+##⚙️ Tech Stack
 
 Python (Google Colab) → Data cleaning, EDA
 
