@@ -1,32 +1,49 @@
-#📊 Apple Stock Price Analysis & Dashboard
+# 📊 Apple Stock Price Analysis & Dashboard
 
-This project analyzes Apple (AAPL) stock prices using Python (Google Colab) and presents insights through an interactive Power BI dashboard.
-##📂 Project Contents
+This project analyzes **Apple Inc. (AAPL)** stock data using **Python (Google Colab)** for data cleaning & analytics and **Power BI** for dashboard creation.  
 
-###📒 Colab Notebook (apple_stock_analysis.ipynb)
+---
 
-Data cleaning & preprocessing
+## 📂 Project Contents
+- 📒 **Colab Notebook** → Data cleaning, preprocessing, and exploratory data analysis (EDA).  
+- 📈 **Power BI Dashboard** → Interactive visualization of Apple stock trends.  
 
-Calculating metrics like Daily % Change, Price Range
+---
 
-Exploratory Data Analysis (EDA) with plots
+## ⚙️ Tools & Technologies
+- **Python** (Pandas, Matplotlib, Seaborn, yfinance)  
+- **Google Colab**  
+- **Power BI**  
+- **GitHub**  
 
-###📊 Power BI Dashboard (apple_stock_dashboard.pbix)
+---
 
-Visualizations of stock trends
+## 🔑 Key Features
+- Time-series analysis of Apple stock prices  
+- Daily % change calculation  
+- Monthly average closing price trend  
+- Price range & volume distribution  
+- Interactive Power BI Dashboard  
 
-Volume vs Price range insights
+---
 
-Monthly average close prices
+## 📊 Power BI Dashboard
+The dashboard highlights:
+- Stock price trends over time  
+- Daily and monthly performance analysis  
+- Trading volume insights  
+- Price range distribution  
 
-Interactive filters
 
-##⚙️ Tech Stack
 
-Python (Google Colab) → Data cleaning, EDA
+---
 
-Pandas, Matplotlib, Seaborn → Data analysis & visualization
+## 🚀 How to Use
+1. Open the **Colab Notebook** (`Apple_Stock_Analysis.ipynb`) to explore the data analysis.  
+2. Import the dataset (`AAPL_stock_data.csv`) inside the notebook.  
+3. Open the **Power BI file** (`Apple_Stock_Dashboard.pbix`) to interact with the dashboard.  
 
-Power BI → Interactive dashboard
+---
 
-GitHub → Project sharing
+
+
